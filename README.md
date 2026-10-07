@@ -35,7 +35,7 @@ A mini e-commerce product page with search, category filtering, a shopping cart 
 ├── index.html    # Page structure, cart drawer and checkout modal
 ├── styles.css    # All styling and responsive rules
 ├── script.js     # Fetching, filtering, cart logic and validation
-└── README.md     # 
+└── README.md     # Project details including features, tech stack, setup instructions, and limitations.
 ```
 
 ## Setup and Running Locally
