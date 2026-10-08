@@ -2,7 +2,8 @@
 
 A mini e-commerce product page with search, category filtering, a shopping cart and a validated checkout form. Built with plain HTML, CSS and JavaScript (no frameworks) as **Task 3** of the Daryl Tech & Educational Network (DTEN) Full Stack Web Development internship.
 
-**Live site:** https://ledgershop-nine.vercel.app
+**Live site:** https://ledgershop-nine.vercel.app 
+
 **Author:** Priscilla Ewusi
 
 ---
