@@ -87,7 +87,7 @@ All product text is escaped before being inserted into the page to prevent HTML 
 
 ## Deployment
 
-The site is static, so it can be hosted on GitHub Pages, with no build command and no output directory. Deploy from the repository root.
+The site is static, so it was hosted on vercel, with no build command and no output directory. Deployed from the repository root.
 
 ## Known Limitations
 
